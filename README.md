@@ -23,7 +23,7 @@ dashboards that provide insights into patient behavior and treatment outcomes, a
 collaboration features that enable mental health professionals to work together more effectively.
 
 ## Features
-- 
+
 - Accurate diagnosis of a wide range of mental health disorders
 - Personalized therapy experiences using virtual reality technology
 - Suite of advanced tools for mental health professionals, including data analysis dashboards and communication features
