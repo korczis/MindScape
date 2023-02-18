@@ -43,6 +43,6 @@ requiring JavaScript.
 - Prolog: A logic programming language used for implementing the data analysis algorithms and other advanced features of
 the platform.
 
-- With this tech stack, we are able to create a platform that is both high-performance and flexible, while also providing
+**With this tech stack, we are able to create a platform that is both high-performance and flexible, while also providing
 an easy-to-use and immersive experience for patients. The use of Prolog for the data analysis algorithms allows for more
-advanced features and insights than would be possible with traditional programming languages.
+advanced features and insights than would be possible with traditional programming languages.**
